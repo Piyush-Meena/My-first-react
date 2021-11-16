@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PROJECTNAME",
-    "slug": "PROJECTNAME",
+    "name": "My-first-react",
+    "slug": "My-first-react",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#000000"
+        "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
